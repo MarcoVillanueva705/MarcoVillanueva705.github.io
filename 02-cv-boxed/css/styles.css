@@ -115,7 +115,8 @@ b.max-bold{ font-weight: 700; }
 	right: 0; background: rgba(0,0,0, .2); }
 
 	
-/* HEADER */
+/* HEADER */
+
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
 	background: #FFAD01; color: #fff; }
 
@@ -138,7 +139,7 @@ b.max-bold{ font-weight: 700; }
 	overflow: hidden; z-index: 1; position: relative; margin: 0 5px 5px; text-align: center;
 	background: #887392; color: #fff; }
 
-.intro .social-icons > li > a:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
+.intro .social-icons > li > a:after{ content: ''; bottom: 0; left: 0; right: 0;
 	top: 0; z-index: -1; border-radius: 20px; background: #FFA804; 
 	-webkit-transition: all .2s ease; transition: all .2s ease;
 	-webkit-transform: scale(0); transform: scale(0); }

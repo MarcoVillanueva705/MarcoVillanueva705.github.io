@@ -154,6 +154,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .intro .social-icons > li > a:hover:after{ -webkit-transform: scale(1); transform: scale(1); }
 
+.row {border-bottom: 1px solid #d2d7da; }
+
 
 /* ---------------------------------
 5. PORFOLIO SECTION

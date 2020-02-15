@@ -82,7 +82,7 @@ b.max-bold{ font-weight: 700; }
 2. COMMONS FOR PAGE DESIGN
 --------------------------------- */
 
-.section{ padding: 100px 0 50px; border-bottom: 1px solid #ddd; }
+.section{ padding: 100px 0 50px; }
 
 .section .heading{ margin-bottom: 60px; }
 
@@ -101,6 +101,8 @@ b.max-bold{ font-weight: 700; }
 .font-semi-white{ color: #ddd; }
 
 .font-lite-black{ color: #999; }
+
+.row{ border-bottom: 1px solid #d2d7da; }
 
 
 

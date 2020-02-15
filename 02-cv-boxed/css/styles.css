@@ -129,7 +129,7 @@ b.max-bold{ font-weight: 700; }
 
 /* INTRO */
 
-.intro{ color: #fff; }
+.intro{ color: #fff; border-bottom: 1px solid #d2d7da;}
 
 .intro .profile-img{ max-width: 400px; border-radius: 5px; overflow: hidden; }
 
@@ -153,9 +153,6 @@ b.max-bold{ font-weight: 700; }
 
 .intro .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
 
-.block {
-	background-color: #28023D;
-}
 
 
 
